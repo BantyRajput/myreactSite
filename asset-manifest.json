@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/myFirstWebinReactSite/static/css/main.81862d1a.css",
-    "main.js": "/myFirstWebinReactSite/static/js/main.1521b0e7.js",
-    "static/js/787.28cb0dcd.chunk.js": "/myFirstWebinReactSite/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/myFirstWebinReactSite/index.html",
-    "main.81862d1a.css.map": "/myFirstWebinReactSite/static/css/main.81862d1a.css.map",
-    "main.1521b0e7.js.map": "/myFirstWebinReactSite/static/js/main.1521b0e7.js.map",
-    "787.28cb0dcd.chunk.js.map": "/myFirstWebinReactSite/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/myreactSite/static/css/main.81862d1a.css",
+    "main.js": "/myreactSite/static/js/main.bfd6d9f9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/myreactSite/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/myreactSite/index.html",
+    "main.81862d1a.css.map": "/myreactSite/static/css/main.81862d1a.css.map",
+    "main.bfd6d9f9.js.map": "/myreactSite/static/js/main.bfd6d9f9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/myreactSite/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81862d1a.css",
-    "static/js/main.1521b0e7.js"
+    "static/js/main.bfd6d9f9.js"
   ]
 }
